@@ -13,7 +13,7 @@ DETECT_CHASSEUR = 20
 VITESSE_SIMU = 1  # Intervalle de mise à jour en millisecondes
 
 # Constantes pour les Proies
-ENERGIE_INITIALE_PROIE = 150  # Energie initiale des proies
+ENERGIE_INITIALE_PROIE = 1500  # Energie initiale des proies
 ENERGIE_DEPLACEMENT_PROIE = 4  # Energie consommée par un déplacement (proie)
 ENERGIE_REPOS_PROIE = 2  # Energie consommée en restant immobile (proie)
 ENERGIE_GAIN_PROIE = 5  # Energie regagnée par une proie près de la nourriture
